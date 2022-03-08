@@ -13,7 +13,7 @@
 const thai = {
   pronouns: "Hi" | "Him",
   code: [Javascript, Typescript, PHP, HTML, CSS],
-  tools: [React, Vue, Redux, Vuex, Pinia, Node, Storybook, Styled-Components, Jest, Docker],
+  tools: [React, Vue, Redux, Jest, Docker, Node, Storybook, Styled-Components],
   architecture: ["Single page applications", "design system pattern"],
   challenge: "I am doing the #100DaysOfCode challenge focused on react and javascript"
 }
