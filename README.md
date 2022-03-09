@@ -11,8 +11,8 @@
 
 ```javascript
 const aboutMe = {
-  pronouns: "Hi" | "Him",
-  code: [Javascript, Typescript, PHP, HTML, CSS],
+  pronouns: "He" | "Him",
+  code: [Javascript, Typescript, PHP, HTML, CSS, Sass],
   tools: [React, Vue, Redux, Jest, Docker, Node, Storybook, Styled-Components],
   architecture: ["Single page applications", "design system pattern"],
   challenge: "I am doing the #100DaysOfCode challenge focused on react and javascript"
