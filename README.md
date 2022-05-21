@@ -1,12 +1,12 @@
 <h2> Hi, I'm Dikih Arif Wibowo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p><em>Frontend Enginner at <a href="https://dana.id">DANA Indonesia</a><img src="https://www.dana.id/favicon.ico" width="20">
 </br>Graduated masters at <a href="https://ugm.ac.id">Gadjah Mada University</a> <img src="https://ugm.ac.id/images/ugm_favicon.png" width="20"> majoring in computer science
 </em></p>
 
 [![Linkedin: dikiharifwibowo](https://img.shields.io/badge/-dikiharifwibowo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dikiharifwibowo/)](https://www.linkedin.com/in/dikiharifwibowo/)
-
+<br><br>
+<a href="https://app.daily.dev/dikiharifwibowo"><img src="https://api.daily.dev/devcards/c7b4026b12b0480c85b2a9463e10d01c.png?r=9fx" width="400" alt="Dikih Arif WIbowo's Dev Card"/></a>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
