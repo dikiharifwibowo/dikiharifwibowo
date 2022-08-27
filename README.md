@@ -5,15 +5,13 @@
 </em></p>
 
 [![Linkedin: dikiharifwibowo](https://img.shields.io/badge/-dikiharifwibowo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dikiharifwibowo/)](https://www.linkedin.com/in/dikiharifwibowo/)
-<br><br>
-<a href="https://app.daily.dev/dikiharifwibowo"><img src="https://api.daily.dev/devcards/c7b4026b12b0480c85b2a9463e10d01c.png?r=9fx" width="400" alt="Dikih Arif WIbowo's Dev Card"/></a>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const aboutMe = {
   pronouns: "He" | "Him",
   code: [Javascript, Typescript, PHP, HTML, CSS, Sass],
-  tools: [React, Vue, Redux, Jest, Docker, Node, Storybook, Styled-Components],
+  tools: [React, Vue, Next.js, Nuxt.js, Redux, Jest, Docker, Node, Storybook, Styled-Components],
   architecture: ["Single page applications", "design system pattern"],
   challenge: "I am doing the #100DaysOfCode challenge focused on react and javascript"
 }
